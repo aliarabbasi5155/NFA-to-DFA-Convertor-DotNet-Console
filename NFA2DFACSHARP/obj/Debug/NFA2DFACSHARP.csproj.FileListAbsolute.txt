@@ -1,0 +1,6 @@
+C:\Users\aliar\documents\visual studio 2017\Projects\NFA2DFACSHARP\NFA2DFACSHARP\bin\Debug\NFA2DFACSHARP.exe.config
+C:\Users\aliar\documents\visual studio 2017\Projects\NFA2DFACSHARP\NFA2DFACSHARP\bin\Debug\NFA2DFACSHARP.exe
+C:\Users\aliar\documents\visual studio 2017\Projects\NFA2DFACSHARP\NFA2DFACSHARP\bin\Debug\NFA2DFACSHARP.pdb
+C:\Users\aliar\documents\visual studio 2017\Projects\NFA2DFACSHARP\NFA2DFACSHARP\obj\Debug\NFA2DFACSHARP.csprojResolveAssemblyReference.cache
+C:\Users\aliar\documents\visual studio 2017\Projects\NFA2DFACSHARP\NFA2DFACSHARP\obj\Debug\NFA2DFACSHARP.exe
+C:\Users\aliar\documents\visual studio 2017\Projects\NFA2DFACSHARP\NFA2DFACSHARP\obj\Debug\NFA2DFACSHARP.pdb
